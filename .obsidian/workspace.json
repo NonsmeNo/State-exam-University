@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "ebedbfc3c5235c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "5897993c147c547b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e66c3c21e06aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/1.11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.11"
+            }
+          },
+          {
+            "id": "22884f80f6dede8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Методы программирования/2.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90adfe924f2b152e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0241b110ec8faf6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94987f2f8350a1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "39313e832c095df2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5604b7c66c62e8fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e6b64749062bed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6665f88ad02531b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92da4d9120748ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Основы программирования/2.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2.1"
+            }
+          },
+          {
+            "id": "8f033ab727e74b07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Основы программирования/2.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2.1"
+            }
+          },
+          {
+            "id": "12be14a2716dc17a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d8963d5071ce87b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Основы программирования/2.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "74e66c3c21e06aa5",
+  "lastOpenFiles": [
+    "Комп сети/media/Pasted image 20250521133606.png",
+    "Pasted image 20250521133328.png",
+    "Комп сети/media/Pasted image 20250521133134.png",
+    "Методы программирования/media/Pasted image 20250520161352.png",
+    "Методы программирования/media/Pasted image 20250520160345.png",
+    "Pasted image 20250521133100.png",
+    "Pasted image 20250520161313.png",
+    "Методы программирования/media/Pasted image 20250520153554.png",
+    "Чек лист по разобранным предметам.md",
+    "Комп сети/2.8.md",
+    "Комп сети/2.7.md",
+    "Методы программирования/2.6.md",
+    "Методы программирования/2.5.md",
+    "Методы программирования/2.4.md",
+    "Основы программирования/2.3.md",
+    "Основы программирования/2.2.md",
+    "Основы программирования/2.1.md",
+    "Билеты Даша/Python/2.21.md",
+    "Билеты Даша/Python/media/Pasted image 20250520152139.png",
+    "Билеты Даша/Python/media/Pasted image 20250520152104.png",
+    "Билеты Даша/Python/media/Pasted image 20250520152149.png",
+    "Билеты Даша/Python",
+    "Физика жестока/1.17.md",
+    "Билеты Даша/Python/media",
+    "Билеты Даша",
+    "Физика жестока/1.18.md",
+    "Методы программирования/media",
+    "Методы программирования",
+    "Физика жестока/1.19.md"
+  ]
+}
