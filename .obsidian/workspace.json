@@ -11,14 +11,12 @@
             "id": "74e66c3c21e06aa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Теорвер/1.11.md",
-                "mode": "source",
-                "source": false
+                "file": "Теорвер/media/Pasted image 20250522151906.png"
               },
-              "icon": "lucide-file",
-              "title": "1.11"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250522151906"
             }
           },
           {
@@ -182,29 +180,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "74e66c3c21e06aa5",
+  "active": "a94987f2f8350a1b",
   "lastOpenFiles": [
-    "Комп сети/media/Pasted image 20250521133606.png",
-    "Pasted image 20250521133328.png",
-    "Комп сети/media/Pasted image 20250521133134.png",
-    "Методы программирования/media/Pasted image 20250520161352.png",
-    "Методы программирования/media/Pasted image 20250520160345.png",
-    "Pasted image 20250521133100.png",
-    "Pasted image 20250520161313.png",
-    "Методы программирования/media/Pasted image 20250520153554.png",
+    "Теорвер/media/Pasted image 20250522150401.png",
+    "Теорвер/media/Pasted image 20250522145150.png",
+    "Теорвер/media/Pasted image 20250522141301.png",
+    "Теорвер/media/Pasted image 20250522141227.png",
+    "Теорвер/media/Pasted image 20250522133625.png",
+    "Теорвер/media/Pasted image 20250522133611.png",
+    "Теорвер/media/Pasted image 20250522012329.png",
+    "Теорвер/media/Pasted image 20250522011656.png",
+    "Теорвер/media/Pasted image 20250522002745.png",
+    "Теорвер/media/Pasted image 20250521234107.png",
+    "Pasted image 20250521234046.png",
+    "Теорвер/1.13.md",
+    "Теорвер/1.12.md",
+    "Теорвер/1.11.md",
+    "Методы программирования/2.4.md",
+    "Методы программирования/2.5.md",
     "Чек лист по разобранным предметам.md",
     "Комп сети/2.8.md",
     "Комп сети/2.7.md",
     "Методы программирования/2.6.md",
-    "Методы программирования/2.5.md",
-    "Методы программирования/2.4.md",
     "Основы программирования/2.3.md",
     "Основы программирования/2.2.md",
     "Основы программирования/2.1.md",
     "Билеты Даша/Python/2.21.md",
-    "Билеты Даша/Python/media/Pasted image 20250520152139.png",
-    "Билеты Даша/Python/media/Pasted image 20250520152104.png",
-    "Билеты Даша/Python/media/Pasted image 20250520152149.png",
     "Билеты Даша/Python",
     "Физика жестока/1.17.md",
     "Билеты Даша/Python/media",
